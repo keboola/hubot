@@ -81,6 +81,9 @@ name as a double quoted string to the `external-scripts.json` file in this repo.
 
 ## Deployment
 
+Install [Heroku Toolbelt][https://toolbelt.heroku.com/]
+
+
     % heroku git:remote keboola-slackbot
     % git push heroku master
 
