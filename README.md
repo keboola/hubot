@@ -96,3 +96,7 @@ More detailed documentation can be found on the
 
 You may want to get comfortable with `heroku logs` and `heroku restart`
 if you're having issues.
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
